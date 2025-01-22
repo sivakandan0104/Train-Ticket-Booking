@@ -1,2 +1,2 @@
-I code the train ticket booking with singly linked list.
-It would add the Booking Deatils, Shows the previous Booking Details, Refund Option.
+The code train ticket booking was done with python-singly linked list.
+It would have the adding Booking Deatils, print the previous Booked ticket Details and also Refund Option.
